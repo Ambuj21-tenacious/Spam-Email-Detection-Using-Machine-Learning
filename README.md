@@ -1,7 +1,7 @@
 📧 Smart Email Spam Detection using Machine Learning
 
 A practical machine learning project developed during my academic career that builds an intelligent system to automatically detect and filter spam emails. The goal of this project is to demonstrate how machine learning can improve email security, productivity, and user experience.
-https://github.com/Ambuj21-tenacious/Spam-Email-Detection-Using-Machine-Learning/blob/ed701f7aaf60ccf67077437ea999690d658508a5/spam.jpg
+
 🌟 Overview
 
 Every day, millions of spam emails flood inboxes containing promotions, scams, and phishing attempts. Manually filtering them is inefficient and risky.
